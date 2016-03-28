@@ -1,0 +1,32 @@
+{
+    "uid": "hmg",
+    "name": "HMG theme",
+    "description": "Theme for hmg",
+    "version": "0.2.0",
+    "pb_version": "0.5.x",
+    "author": {
+        "name": "PencilBlue",
+        "email": "info@pencilblue.org",
+        "website": "http://pencilblue.org",
+        "contributors": [
+            {
+                "name": "Lars Karbø",
+                "email": ""
+            }
+        ]
+    },
+    "settings": [],
+    "permissions": {
+        "ACCESS_USER": [],
+        "ACCESS_WRITER": [],
+        "ACCESS_EDITOR": [],
+        "ACCESS_MANAGING_EDITOR": []
+    },
+    "main_module": {
+        "path": "hmg.js"
+    },
+    "theme": {
+        "settings": [],
+        "content_templates":[]
+    }
+}
